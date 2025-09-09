@@ -8,7 +8,7 @@ Learn how to build and deploy your own leaderboard on-chain, using Aleo's networ
 
 Make sure you have [Node.js](https://nodejs.org/en) LTS installed.
 
-Enable corepack in order to be able to use PNPM (NPM for cool kids):
+Enable corepack to be able to use PNPM (NPM for cool kids):
 
 ```sh
 corepack enable
